@@ -8,8 +8,8 @@
   <img src="nexusGitLogo.png" alt="Nexus Logo" width="150" height="150">
   <br>
   <i>"Your voice is my command."</i>
-  [![Download on itch.io](https://img.shields.io/badge/Download-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://egesenol11.itch.io/nexus)
 </div>
+[![Download on itch.io]](https://egesenol11.itch.io/nexus)
 
 ## 📖 Overview
 **NEXUS** is a lightweight, Python-based desktop voice assistant designed to automate daily tasks, control media, and manage system operations. Unlike standard assistants, NEXUS features a **dynamic noise cancellation system** and a **minimalist, auto-cleaning GUI** that keeps your screen distraction-free.
