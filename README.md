@@ -8,9 +8,10 @@
   <img src="nexusGitLogo.png" alt="Nexus Logo" width="150" height="150">
   <br>
   <i>"Your voice is my command."</i>
-</div>
-<div align="center">
-  Download on itch.io(https://egesenol11.itch.io/nexus)
+  <br><br>
+  <a href="https://egesenol11.itch.io/nexus">
+    <img src="https://img.shields.io/badge/Download-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Download on itch.io">
+  </a>
 </div>
 
 ## 📖 Overview
