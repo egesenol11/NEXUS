@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 <div align="center">
-  <img src="nexuslogo.png" alt="Nexus Logo" width="150" height="150">
+  <img src="nexusGitLogo.png" alt="Nexus Logo" width="150" height="150">
   <br>
   <i>"Your voice is my command."</i>
 </div>
